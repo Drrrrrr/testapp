@@ -1,0 +1,937 @@
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.005000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.015000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.016000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-12 19:05:30', NULL, NULL, NULL, NULL, '2009-05-12 19:05:30', NULL)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.016000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.016000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mProfiles Columns (0.000000)[0m   [0;1mSHOW FIELDS FROM `profiles`[0m
+  [4;35;1mProfiles Create (0.000000)[0m   [0mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-12 19:57:19', '2009-05-12 19:57:19')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-12 19:59:34', '2009-05-12 19:59:34')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-12 19:59:34', 'value for name', NULL, NULL, NULL, '2009-05-12 19:59:34', NULL)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.016000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 08:43:44', '2009-05-13 08:43:44')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.015000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 08:45:59', '2009-05-13 08:45:59')[0m
+  [4;35;1mSQL (0.015000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+WARNING: Can't mass-assign these protected attributes: username, email
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.015000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 08:46:49', '2009-05-13 08:46:49')[0m
+  [4;35;1mSQL (0.047000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:46:49', 'some username', NULL, NULL, NULL, '2009-05-13 08:46:49', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 08:51:47', '2009-05-13 08:51:47')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:51:47', 'some username', NULL, NULL, NULL, '2009-05-13 08:51:47', 'john@doe.com')[0m
+  [4;35;1mSQL (0.047000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:51:47', NULL, NULL, NULL, NULL, '2009-05-13 08:51:47', NULL)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 08:52:34', '2009-05-13 08:52:34')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.016000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:52:34', 'some username', NULL, NULL, NULL, '2009-05-13 08:52:34', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:52:34', NULL, NULL, NULL, NULL, '2009-05-13 08:52:34', NULL)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 08:53:06', '2009-05-13 08:53:06')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:53:06', 'some username', NULL, NULL, NULL, '2009-05-13 08:53:06', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:53:06', NULL, NULL, NULL, NULL, '2009-05-13 08:53:06', NULL)[0m
+  [4;36;1mSQL (0.063000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.016000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 08:53:41', '2009-05-13 08:53:41')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:53:41', 'some username', NULL, NULL, NULL, '2009-05-13 08:53:41', 'john@doe.com')[0m
+  [4;35;1mSQL (0.046000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 08:53:41', NULL, NULL, NULL, NULL, '2009-05-13 08:53:41', NULL)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:02:34', '2009-05-13 09:02:34')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:03:08', '2009-05-13 09:03:08')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:03:08', 'some username', NULL, NULL, NULL, '2009-05-13 09:03:08', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:03:39', '2009-05-13 09:03:39')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.015000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:03:39', 'some username', NULL, NULL, NULL, '2009-05-13 09:03:39', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:03:39', NULL, NULL, NULL, NULL, '2009-05-13 09:03:39', 'john@doe.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.015000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:03:57', '2009-05-13 09:03:57')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:03:57', 'some username', NULL, NULL, NULL, '2009-05-13 09:03:57', 'john@doe.com')[0m
+  [4;35;1mSQL (0.016000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:03:57', NULL, NULL, NULL, NULL, '2009-05-13 09:03:57', 'john@doe.com')[0m
+  [4;36;1mSQL (0.047000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:06:01', '2009-05-13 09:06:01')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.016000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:06:01', 'some username', NULL, NULL, NULL, '2009-05-13 09:06:01', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.016000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:08:37', '2009-05-13 09:08:37')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:08:37', 'some username', NULL, NULL, NULL, '2009-05-13 09:08:37', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:09:39', '2009-05-13 09:09:39')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:09:39', 'some username', NULL, NULL, NULL, '2009-05-13 09:09:39', 'john@doe.com')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:11:30', '2009-05-13 09:11:30')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:11:30', 'some username', NULL, NULL, NULL, '2009-05-13 09:11:30', 'john@doe.com')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:27:59', '2009-05-13 09:27:59')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:27:59', 'some username', NULL, NULL, NULL, '2009-05-13 09:27:59', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:28:30', '2009-05-13 09:28:30')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:28:30', 'some username', NULL, NULL, NULL, '2009-05-13 09:28:30', 'john@doe.com')[0m
+  [4;35;1mSQL (0.062000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 09:29:12', '2009-05-13 09:29:12')[0m
+  [4;35;1mSQL (0.015000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 09:29:12', 'some username', NULL, NULL, NULL, '2009-05-13 09:29:12', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.015000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:32:12', '2009-05-13 16:32:12')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:32:12', 'some username', NULL, NULL, NULL, '2009-05-13 16:32:12', 'john@doe.com')[0m
+  [4;35;1mSQL (0.031000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:34:28', '2009-05-13 16:34:28')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.016000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:34:28', 'some username', NULL, NULL, NULL, '2009-05-13 16:34:28', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:34:28', 'some username', NULL, NULL, NULL, '2009-05-13 16:34:28', 'john@doe.com')[0m
+  [4;36;1mSQL (0.062000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.000000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:35:19', '2009-05-13 16:35:19')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.000000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:35:19', 'some username', NULL, NULL, NULL, '2009-05-13 16:35:19', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:35:19', 'some username', NULL, NULL, NULL, '2009-05-13 16:35:19', 'john@doe.com')[0m
+  [4;36;1mSQL (0.047000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:36:02', '2009-05-13 16:36:02')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.003000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:36:02', 'some username', NULL, NULL, NULL, '2009-05-13 16:36:02', 'john@doe.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:36:02', 'some username', NULL, NULL, NULL, '2009-05-13 16:36:02', 'john@doe.com')[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:36:02', 'some username', NULL, NULL, NULL, '2009-05-13 16:36:02', 'john@doe.com')[0m
+  [4;35;1mSQL (0.053000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:37:57', '2009-05-13 16:37:57')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.002000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:37:57', 'some username', NULL, NULL, NULL, '2009-05-13 16:37:57', 'john@doe.com')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:37:57', 'some username', NULL, NULL, NULL, '2009-05-13 16:37:57', 'john@doe.com')[0m
+  [4;36;1mSQL (0.050000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:38:25', '2009-05-13 16:38:25')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:38:25', 'some username', NULL, NULL, NULL, '2009-05-13 16:38:25', 'john@doe.com')[0m
+  [4;35;1mSQL (0.048000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:38:25', 'some username', NULL, NULL, NULL, '2009-05-13 16:38:25', 'john@doe.com')[0m
+  [4;36;1mSQL (0.011000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.002000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:39:31', '2009-05-13 16:39:31')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:39:31', 'some username', NULL, NULL, NULL, '2009-05-13 16:39:31', 'john@doe.com')[0m
+  [4;35;1mSQL (0.040000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:39:31', 'some username', NULL, NULL, NULL, '2009-05-13 16:39:31', 'john@doe.com')[0m
+  [4;36;1mUser Create (0.001000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:39:31', 'some username', NULL, NULL, NULL, '2009-05-13 16:39:31', 'john@doe.com')[0m
+  [4;35;1mSQL (0.010000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.007000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:40:18', '2009-05-13 16:40:18')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.004000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:40:18', 'some username', NULL, NULL, NULL, '2009-05-13 16:40:18', 'john@doe.com')[0m
+  [4;35;1mSQL (0.055000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:40:18', 'some username', NULL, NULL, NULL, '2009-05-13 16:40:18', 'john@doe.com')[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:40:18', 'some username', NULL, NULL, NULL, '2009-05-13 16:40:18', 'john@doe.com')[0m
+  [4;35;1mSQL (0.004000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 16:50:14', '2009-05-13 16:50:14')[0m
+  [4;35;1mSQL (0.003000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some username') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:50:14', 'some username', NULL, NULL, NULL, '2009-05-13 16:50:14', 'john@doe.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some username') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some username') [0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 16:50:14', 'some username', NULL, NULL, NULL, '2009-05-13 16:50:14', 'john@doe.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some username') [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.002000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 17:44:56', '2009-05-13 17:44:56')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some username') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:44:56', 'some username', NULL, NULL, NULL, '2009-05-13 17:44:56', 'john@doe.com')[0m
+  [4;36;1mSQL (0.002000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 17:46:15', '2009-05-13 17:46:15')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some username') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:46:15', 'some username', NULL, NULL, NULL, '2009-05-13 17:46:15', 'john@doe.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.002000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 17:51:16', '2009-05-13 17:51:16')[0m
+  [4;35;1mSQL (0.003000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 17:52:51', '2009-05-13 17:52:51')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:52:51', 'foo1', NULL, NULL, NULL, '2009-05-13 17:52:51', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:52:51', 'some name', NULL, NULL, NULL, '2009-05-13 17:52:51', 'foo4@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.041000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 17:55:20', '2009-05-13 17:55:20')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:55:20', 'foo1', NULL, NULL, NULL, '2009-05-13 17:55:20', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.055000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.001000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:55:20', 'some name', NULL, NULL, NULL, '2009-05-13 17:55:20', 'foo4@ex.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.004000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 17:56:17', '2009-05-13 17:56:17')[0m
+  [4;35;1mSQL (0.002000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:56:17', 'foo1', NULL, NULL, NULL, '2009-05-13 17:56:17', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:56:17', 'some name', NULL, NULL, NULL, '2009-05-13 17:56:17', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.042000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 17:57:12', '2009-05-13 17:57:12')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:57:12', 'foo1', NULL, NULL, NULL, '2009-05-13 17:57:12', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 17:57:12', 'some name', NULL, NULL, NULL, '2009-05-13 17:57:12', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:00:46', '2009-05-13 18:00:46')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:00:46', 'foo1', NULL, NULL, NULL, '2009-05-13 18:00:46', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:11:12', '2009-05-13 18:11:12')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:11:12', 'foo1', NULL, NULL, NULL, '2009-05-13 18:11:12', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.055000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.001000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:11:12', 'some name', NULL, NULL, NULL, '2009-05-13 18:11:12', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.016000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:11:58', '2009-05-13 18:11:58')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:11:58', 'foo1', NULL, NULL, NULL, '2009-05-13 18:11:58', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.057000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:11:59', 'some name', NULL, NULL, NULL, '2009-05-13 18:11:59', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.014000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:13:05', '2009-05-13 18:13:05')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:13:05', 'foo1', NULL, NULL, NULL, '2009-05-13 18:13:05', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:13:05', 'some name', NULL, NULL, NULL, '2009-05-13 18:13:05', 'foo3@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.040000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.002000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:14:10', '2009-05-13 18:14:10')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:14:10', 'foo1', NULL, NULL, NULL, '2009-05-13 18:14:10', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:14:10', 'some name', NULL, NULL, NULL, '2009-05-13 18:14:10', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.048000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:15:47', '2009-05-13 18:15:47')[0m
+  [4;35;1mSQL (0.002000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:15:47', 'foo1', NULL, NULL, NULL, '2009-05-13 18:15:47', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.048000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.001000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:15:47', 'some name', NULL, NULL, NULL, '2009-05-13 18:15:47', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.014000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:16:15', '2009-05-13 18:16:15')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:16:15', 'foo1', NULL, NULL, NULL, '2009-05-13 18:16:15', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.047000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:16:15', 'some name', NULL, NULL, NULL, '2009-05-13 18:16:15', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name' AND `users`.id <> 2) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.025000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:18:37', '2009-05-13 18:18:37')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:18:37', 'foo1', NULL, NULL, NULL, '2009-05-13 18:18:37', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:19:22', '2009-05-13 18:19:22')[0m
+  [4;35;1mSQL (0.002000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:19:22', 'foo1', NULL, NULL, NULL, '2009-05-13 18:19:22', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.012000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:27:42', '2009-05-13 18:27:42')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:27:42', 'foo1', NULL, NULL, NULL, '2009-05-13 18:27:42', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.011000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.001000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:36:51', '2009-05-13 18:36:51')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:36:51', 'foo1', NULL, NULL, NULL, '2009-05-13 18:36:51', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:37:42', '2009-05-13 18:37:42')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.001000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:37:42', 'foo1', NULL, NULL, NULL, '2009-05-13 18:37:42', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.044000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:38:25', '2009-05-13 18:38:25')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1') [0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:38:25', 'foo1', NULL, NULL, NULL, '2009-05-13 18:38:25', 'foo1@ex.com')[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo1' AND `users`.id <> 1) [0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username IS NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000000)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSELECT `username` FROM `users` WHERE (`users`.username = 'foo2') [0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:38:25', 'some name', NULL, NULL, NULL, '2009-05-13 18:38:25', 'foo4@ex.com')[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSELECT `username` FROM `users` WHERE (`users`.username = 'some name') [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mProfiles Columns (0.003000)[0m   [0mSHOW FIELDS FROM `profiles`[0m
+  [4;36;1mProfiles Create (0.000000)[0m   [0;1mINSERT INTO `profiles` (`name`, `updated_at`, `created_at`) VALUES('value for name', '2009-05-13 18:39:45', '2009-05-13 18:39:45')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Columns (0.003000)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Create (0.000000)[0m   [0;1mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:39:45', 'foo1', NULL, NULL, NULL, '2009-05-13 18:39:45', 'foo1@ex.com')[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.001000)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mINSERT INTO `users` (`encrypted_password`, `salt`, `updated_at`, `username`, `description`, `first_name`, `last_name`, `created_at`, `email`) VALUES(NULL, NULL, '2009-05-13 18:39:45', 'some name', NULL, NULL, NULL, '2009-05-13 18:39:45', 'foo4@ex.com')[0m
+  [4;36;1mSQL (0.001000)[0m   [0;1mROLLBACK[0m
